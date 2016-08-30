@@ -1,3 +1,5 @@
+% setup html file
+
 fid = fopen('MoviesOnDemand.html','w+');
 fprintf(fid,'%s\n','<html>');
 

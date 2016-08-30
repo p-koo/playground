@@ -1,3 +1,5 @@
+% setup html file
+
 fid = fopen('MoviesOnDemand.html','w+');
 fprintf(fid,'%s\n','<html>');
 
@@ -15,14 +17,12 @@ fprintf(fid,'%s\n',' margin: 4px 0 0 0px; padding: 3px 3px 3px 3px; ');
 fprintf(fid,'%s\n','border-style:solid; border-color:black; border-width:1px;}');
 fprintf(fid,'%s\n','span.dropt:hover span {margin: -70px 0 0 -50px; background: #ffffff; z-index:6;}');
 
-
 fprintf(fid,'%s\n','body {');
 fprintf(fid,'\t%s\n','height: 600px;');
 fprintf(fid,'\t%s\n','width: 900 px;');
 fprintf(fid,'\t%s\n','background-color: #E8E8E8;');
 fprintf(fid,'%s\n','}');
 fprintf(fid,'\n');
-
 
 fprintf(fid,'%s\n','#header{');
 fprintf(fid,'\t%s\n','background: #2D5A8E;');
