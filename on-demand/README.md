@@ -1,4 +1,4 @@
-# Bot to scrape on-demand info for premium movie channels
+# Bot to scrape on-demand info from premium movie channels
 
 This was my first bot (embarrassingly, written in Matlab) that scrapes 
 on-demand movie info, i.e. name, cast, synopsis, run-time, from the 
