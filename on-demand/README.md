@@ -9,4 +9,6 @@ An html file with hyperlinks to the corresponding trailer is uploaded onto
 a webserver.  This script was written in 2012, so it is outdated. 
 Moreover, the webserver is down. Damn you Optimum!
 
+The main file is: GenerateHTMLwImages.m
+
 Cheers!

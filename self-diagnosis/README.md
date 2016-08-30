@@ -12,6 +12,10 @@ a set of questions that asks the user if they have a particular
 condition.  The system will adjust the space of possible condition 
 after each answer and generate a new question based on what 
 conditions remain.  The goal of an efficient algorithm will try 
-to ask the condition that can split the condition in half.  
+to ask the user if they have symptoms that can split the possible
+conditions in half.  Thereby, playing a game of 20 questions to
+lead to self-diagnosis.  This isn't that much different than 
+what a doctor does, except that at the end of the day a doc can
+prescribe pain killers. =P
 
 Cheers!
